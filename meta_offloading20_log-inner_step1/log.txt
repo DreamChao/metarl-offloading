@@ -1,0 +1,252 @@
+Logging to ./meta_offloading20_log-inner_step1/
+
+ ---------------- Iteration 0 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 814      |
+| Average latency,        | 1.02e+03 |
+| Average reward,         | -7.2     |
+| AverageDiscountedReturn | -6.65    |
+| AverageReturn           | -7.21    |
+| EnvExecTime             | 1        |
+| Itr                     | 0        |
+| MaxReturn               | -2.74    |
+| MinReturn               | -13.4    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 6.41     |
+| StdReturn               | 1.56     |
+--------------------------------------
+
+ ---------------- Iteration 1 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 829      |
+| Average latency,        | 958      |
+| Average reward,         | -6.68    |
+| AverageDiscountedReturn | -6.54    |
+| AverageReturn           | -7.11    |
+| EnvExecTime             | 1.27     |
+| Itr                     | 1        |
+| MaxReturn               | -2.41    |
+| MinReturn               | -13.3    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 8.58     |
+| StdReturn               | 1.9      |
+--------------------------------------
+
+ ---------------- Iteration 2 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 826      |
+| Average latency,        | 1.07e+03 |
+| Average reward,         | -7.41    |
+| AverageDiscountedReturn | -6.89    |
+| AverageReturn           | -7.48    |
+| EnvExecTime             | 1.1      |
+| Itr                     | 2        |
+| MaxReturn               | -2.38    |
+| MinReturn               | -13.6    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7        |
+| StdReturn               | 1.83     |
+--------------------------------------
+
+ ---------------- Iteration 3 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 830      |
+| Average latency,        | 1.04e+03 |
+| Average reward,         | -7.15    |
+| AverageDiscountedReturn | -7.01    |
+| AverageReturn           | -7.61    |
+| EnvExecTime             | 1.11     |
+| Itr                     | 3        |
+| MaxReturn               | -2.49    |
+| MinReturn               | -13.7    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.23     |
+| StdReturn               | 1.91     |
+--------------------------------------
+
+ ---------------- Iteration 4 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 833      |
+| Average latency,        | 1.08e+03 |
+| Average reward,         | -7.5     |
+| AverageDiscountedReturn | -7.1     |
+| AverageReturn           | -7.72    |
+| EnvExecTime             | 1.12     |
+| Itr                     | 4        |
+| MaxReturn               | -2.55    |
+| MinReturn               | -13.8    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.3      |
+| StdReturn               | 1.87     |
+--------------------------------------
+
+ ---------------- Iteration 5 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 830      |
+| Average latency,        | 1.19e+03 |
+| Average reward,         | -8.23    |
+| AverageDiscountedReturn | -7.11    |
+| AverageReturn           | -7.73    |
+| EnvExecTime             | 1.09     |
+| Itr                     | 5        |
+| MaxReturn               | -2.36    |
+| MinReturn               | -13.9    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.02     |
+| StdReturn               | 2.02     |
+--------------------------------------
+
+ ---------------- Iteration 6 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 832      |
+| Average latency,        | 1.18e+03 |
+| Average reward,         | -8.23    |
+| AverageDiscountedReturn | -7.38    |
+| AverageReturn           | -8.04    |
+| EnvExecTime             | 1.13     |
+| Itr                     | 6        |
+| MaxReturn               | -2.49    |
+| MinReturn               | -13.8    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.28     |
+| StdReturn               | 1.99     |
+--------------------------------------
+
+ ---------------- Iteration 7 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 824      |
+| Average latency,        | 1.19e+03 |
+| Average reward,         | -8.35    |
+| AverageDiscountedReturn | -7.64    |
+| AverageReturn           | -8.32    |
+| EnvExecTime             | 1.12     |
+| Itr                     | 7        |
+| MaxReturn               | -2.33    |
+| MinReturn               | -13.5    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.09     |
+| StdReturn               | 1.84     |
+--------------------------------------
+
+ ---------------- Iteration 8 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 824      |
+| Average latency,        | 1.31e+03 |
+| Average reward,         | -9.11    |
+| AverageDiscountedReturn | -7.75    |
+| AverageReturn           | -8.45    |
+| EnvExecTime             | 1.21     |
+| Itr                     | 8        |
+| MaxReturn               | -2.42    |
+| MinReturn               | -14.3    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.4      |
+| StdReturn               | 1.9      |
+--------------------------------------
+
+ ---------------- Iteration 9 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 818      |
+| Average latency,        | 1.17e+03 |
+| Average reward,         | -8.08    |
+| AverageDiscountedReturn | -7.52    |
+| AverageReturn           | -8.2     |
+| EnvExecTime             | 1.2      |
+| Itr                     | 9        |
+| MaxReturn               | -1.94    |
+| MinReturn               | -13.9    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.57     |
+| StdReturn               | 2.01     |
+--------------------------------------
+
+ ---------------- Iteration 10 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 827      |
+| Average latency,        | 1.16e+03 |
+| Average reward,         | -8.09    |
+| AverageDiscountedReturn | -7.93    |
+| AverageReturn           | -8.65    |
+| EnvExecTime             | 1.13     |
+| Itr                     | 10       |
+| MaxReturn               | -1.94    |
+| MinReturn               | -13.9    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 7.13     |
+| StdReturn               | 2.11     |
+--------------------------------------
+
+ ---------------- Iteration 11 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 845      |
+| Average latency,        | 1.31e+03 |
+| Average reward,         | -9.2     |
+| AverageDiscountedReturn | -8.4     |
+| AverageReturn           | -9.17    |
+| EnvExecTime             | 1.3      |
+| Itr                     | 11       |
+| MaxReturn               | -2.45    |
+| MinReturn               | -13.8    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 8.67     |
+| StdReturn               | 2.07     |
+--------------------------------------
+
+ ---------------- Iteration 12 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
+Optimizing policy...
+--------------------------------------
+| Average greedy latency, | 822      |
+| Average latency,        | 1.32e+03 |
+| Average reward,         | -9.25    |
+| AverageDiscountedReturn | -7.98    |
+| AverageReturn           | -8.73    |
+| EnvExecTime             | 1.4      |
+| Itr                     | 12       |
+| MaxReturn               | -2.42    |
+| MinReturn               | -13.7    |
+| NumTrajs                | 10000    |
+| PolicyExecTime          | 8.52     |
+| StdReturn               | 2.02     |
+--------------------------------------
+
+ ---------------- Iteration 13 ----------------
+Sampling set of tasks/goals for this meta-batch...
+Processing samples...
